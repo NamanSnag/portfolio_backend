@@ -5,7 +5,7 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'socialChat',
+  title: 'SocialChat',
 
   projectId: 'dijg9ti9',
   dataset: 'production',
